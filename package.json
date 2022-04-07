@@ -41,7 +41,7 @@
 		"jasmine-node": "^1.16.2",
 		"nyc": "^10.3.2",
 		"safe-publish-latest": "^1.1.4",
-		"uglify-js": "2.7.3"
+		"uglify-js": "2.8.6"
 	},
 	"engines": {
 		"node": ">=0.4.0"
